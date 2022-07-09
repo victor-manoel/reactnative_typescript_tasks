@@ -38,12 +38,12 @@ const styles = StyleSheet.create({
     flexDirection: 'row'
   },
   tasksCounter: {
-    fontSize: 15,
+    fontSize: 14,
     color: '#FFF',
     fontFamily: 'Inter-Regular',
   },
   tasksCounterBold: {
-    fontSize: 15,
+    fontSize: 14,
     color: '#FFF',
     fontFamily: 'Inter-Bold',
   }
